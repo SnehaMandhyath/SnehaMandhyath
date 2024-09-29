@@ -4,7 +4,7 @@
 👩🏻‍🎓 Studied [Master of Science in Data Science] at Vellore Institute of Technology, AP, India
 
 
-#### 👇Meet me on Linkedin
+#### 👇Meet me on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehamandhyath) 
 
 ### 💻 Tech Stack:
