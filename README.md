@@ -1,10 +1,10 @@
-### 👋Hi, I'm Sneha!
+## 👋Hi, I'm Sneha!
 
 👩🏻‍💻 As a Data Scientist, I am sharing my journey and the valuable insights I am gaining in the field of data analytics and machine learning<br>
 👩🏻‍🎓 Studied [Master of Science in Data Science] at Vellore Institute of Technology, AP, India
 
 
-## 👇Meet me on Linkedin
+#### 👇Meet me on Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehamandhyath) 
 
 # 💻 Tech Stack:
