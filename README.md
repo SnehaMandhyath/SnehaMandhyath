@@ -2,9 +2,9 @@
 
 ## 👋Hi, I'm Sneha!
 
-👩🏻‍💻 As a Data Scientist, I am sharing my journey and the valuable insights I am gaining in the field of data analytics and machine learning<br>
-👩🏻‍🎓 Pursuing [Master of Science in Data Science] at Vellore Institute of Technology, AP, India
-
+👩🏻‍💻 As a Data Scientist, I am sharing my journey and the valuable insights I am gaining in the field of data analytics and machine learning<br/>
+👩🏻‍🎓 Pursuing [Master of Science in Data Science] at Vellore Institute of Technology, AP, India<br/>
+MSc Data Science Student at VIT - AP | BSc Mathematics Graduate from Kannur University
 
 #### 👇Meet me on LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehamandhyath) 
