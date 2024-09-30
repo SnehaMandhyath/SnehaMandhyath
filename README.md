@@ -1,3 +1,5 @@
+<img src="[https://github.com/SnehaMandhyath/SnehaMandhyath/blob/main/snehaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png]" width="800"/>
+
 ## 👋Hi, I'm Sneha!
 
 👩🏻‍💻 As a Data Scientist, I am sharing my journey and the valuable insights I am gaining in the field of data analytics and machine learning<br>
