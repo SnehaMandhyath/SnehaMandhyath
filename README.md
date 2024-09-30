@@ -1,4 +1,3 @@
-<img src="https://github.com/SnehaMandhyath/SnehaMandhyath/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(1).png" alt="Sneha's Image" width="800"/>
 
 ## 👋Hi, I'm Sneha!
 
