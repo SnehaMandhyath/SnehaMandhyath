@@ -1,4 +1,4 @@
-<img src="https://github.com/SnehaMandhyath/SnehaMandhyath/blob/main/snehaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.png" alt="Sneha's Image" width="800"/>
+<img src="" alt="Sneha's Image" width="800"/>
 
 ## 👋Hi, I'm Sneha!
 
